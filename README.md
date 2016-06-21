@@ -75,6 +75,14 @@ Useful resources for CTFs.
 * [NCC Group](https://www.nccgroup.trust/uk/about-us/newsroom-and-events/blogs/)
 * [Breaking Malware](http://breakingmalware.com/)
 
+## Tools
+
+### Disassemblers
+
+* [IDA](https://www.hex-rays.com/products/ida/)
+* [Hopper](http://www.hopperapp.com/index.html)
+* [Radare](http://radare.org/r/)
+
 ## Useful Links
 
 * https://trailofbits.github.io/ctf/index.html (CTF Introduction and Information)
