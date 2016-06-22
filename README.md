@@ -96,7 +96,7 @@ Useful resources for CTFs.
 
 ### Misc
 
-* [ctf-tool](https://github.com/zardus/ctf-tools)
+* [ctf-tools](https://github.com/zardus/ctf-tools)
 * [awesome-ctf](https://github.com/apsdehal/awesome-ctf)
 
 ## Useful Links
