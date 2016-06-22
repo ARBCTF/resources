@@ -13,7 +13,15 @@ Useful resources for CTFs.
 * [Hacking: The Art of Exploitation, 2nd Edition](http://amzn.com/1593271441) (!!)
 * [The Shellcoder's Handbook: Discovering and Exploiting Security Holes](http://amzn.com/047008023X) (!)
 * [A Guide to Kernel Exploitation: Attacking the Core](http://amzn.com/1597494860)
-* [Exploiting win32k.sys Use-After-Free](https://www.nccgroup.trust/globalassets/our-research/uk/blog-post/exploiting-cve-_-2015-08-07.pdf) (PDF)
+
+### Reversing
+
+* [Reversing: Secrets of Reverse Engineering](https://www.amazon.com/Reversing-Secrets-Engineering-Eldad-Eilam/dp/0764574817)
+
+### Web
+
+* [The Web Application Hacker's Handbook: Finding and Exploiting Security Flaws](https://www.amazon.com/Web-Application-Hackers-Handbook-Exploiting/dp/1118026470/)
+* [The Browser Hacker's Handbook](https://www.amazon.com/Browser-Hackers-Handbook-Wade-Alcorn/dp/1118662091)
 
 ### Crypto
 
@@ -82,6 +90,14 @@ Useful resources for CTFs.
 * [IDA](https://www.hex-rays.com/products/ida/)
 * [Hopper](http://www.hopperapp.com/index.html)
 * [Radare](http://radare.org/r/)
+* [Retargetable Decompiler](https://retdec.com/)
+* [Online Disassembler](https://www.onlinedisassembler.com/static/home/)
+* [Binary Ninja](https://binary.ninja/index.html)
+
+### Misc
+
+* [ctf-tool](https://github.com/zardus/ctf-tools)
+* [awesome-ctf](https://github.com/apsdehal/awesome-ctf)
 
 ## Useful Links
 
