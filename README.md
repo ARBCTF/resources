@@ -71,6 +71,8 @@ Useful resources for CTFs.
 * [Hack The Cause](http://hackthecause.info/)
 * [Exploit-Exercises](https://exploit-exercises.com/)
 * [Vuln Hub](https://www.vulnhub.com/)
+* [Arizona Cyber Warfare Range](http://azcwr.org/)
+* [CTF365](https://ctf365.com)
 
 ## Blogs
 
