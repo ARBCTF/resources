@@ -20,7 +20,7 @@ Useful resources for CTFs.
 
 ### Web
 
-* [The Web Application Hacker's Handbook: Finding and Exploiting Security Flaws](https://www.amazon.com/Web-Application-Hackers-Handbook-Exploiting/dp/1118026470/)
+* [The Web Application Hacker's Handbook: Finding and Exploiting Security Flaws](https://www.amazon.com/Web-Application-Hackers-Handbook-Exploiting/dp/1118026470/) (!!)
 * [The Browser Hacker's Handbook](https://www.amazon.com/Browser-Hackers-Handbook-Wade-Alcorn/dp/1118662091)
 
 ### Crypto
