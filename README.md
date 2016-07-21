@@ -73,6 +73,7 @@ Useful resources for CTFs.
 * [Vuln Hub](https://www.vulnhub.com/)
 * [Arizona Cyber Warfare Range](http://azcwr.org/)
 * [CTF365](https://ctf365.com)
+* [Captf](https://captf.com/practice-ctf/)
 
 ## Blogs
 
