@@ -52,6 +52,7 @@ Useful resources for CTFs.
 * [Modern Binary Exploitation (RPI)](http://security.cs.rpi.edu/courses/binexp-spring2015/)
   * [Course Materials](https://github.com/RPISEC/MBE)
 * [Offensive Computer Security (Florida State)](http://www.cs.fsu.edu/~redwood/OffensiveComputerSecurity/)
+  * [Offensive Computer Security 2.0](http://howto.hackallthethings.com/2016/07/learning-exploitation-with-offensive.html)
 * [SEEDLabs (Syracuse)](http://www.cis.syr.edu/~wedu/seed/all_labs.html)
 * [ISIS Hack Night (NYU Poly)](https://isislab.github.io/Hack-Night/)
 * [Network Security (Stonybrook)](https://www3.cs.stonybrook.edu/~mikepo/CSE508/)
