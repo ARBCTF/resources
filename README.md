@@ -60,23 +60,60 @@ Useful resources for CTFs.
 * [Computer Security (Berkeley)](http://inst.eecs.berkeley.edu/~cs161/archives.html)
 
 ## Practice
+
+### Wargames
+Someone else runs these machines and gave YOU permission to exploit them to proceed to the next level. Start at level0 and proceed to become a 1337 hacker.
 * [Smash The Stack](http://smashthestack.org/)
 * [Over The Wire](http://overthewire.org/wargames/)
+* [IO](https://io.netgarage.org/)
+* [Arizona Cyber Warfare Range](http://azcwr.org/)
+
+### Exploitable VMs
+Download a VM and hack away at it on your own machine. Perfect for those rare times you don't have internet but **need** to hack something.
+* [Exploit-Exercises](https://exploit-exercises.com/)
+* [Vuln Hub](https://www.vulnhub.com/)
+* [Metasploitable](https://sourceforge.net/projects/metasploitable/files/Metasploitable2/)
+ 
+### Reversing
+Reversing challenges that you can download and reverse engineer to your hearts desire.
+* [Reversing.Kr](http://reversing.kr/)
+* [Challenges.re](http://challenges.re/)
+* [OS X crackmes](https://reverse.put.as/crackmes/)
+
+### Attack / Defend
+Attack / Defend style challenges aren't typically hosted online. But these ones are. 
+* [CTF365 (Free version is just sploitable access)](https://ctf365.com)
+
+### Game hacking
+Remember when you were an aspiring computer nerd and said "I want to be a game developer!" well, this is sort of like that except for hackers.
+* [Pwnadventure 2](http://ghostintheshellcode.com/#pwnadventure2)
+* [Pwnadventure 3](http://pwnadventure.com/)
+
+### Web Hacking
+The World Wide Web, where "wide" describes the size of the security holes.
 * [Hack This Site (Web)](http://www.hackthissite.org/)
+* [Websec.fr](https://websec.fr/)
+* [Hack.me](https://hack.me/)
+* [XSS Challenges](https://github.com/cure53/XSSChallengeWiki/wiki/Older-Challenges-and-Write-Ups)
+
+### Crypto
+Do large prime numbers really wet your whistle? Ever dream of having a key exchange with Diffie and Hellman? Does RSA make your toes tingle? These are for you.
+* [Matasano Crypto Challenges](http://cryptopals.com/)
+* [Praetorian Crypto Challenges](http://www.praetorian.com/challenges/crypto/)
+* [PotatoSec Crypto Challenges](http://potatopla.net/crypto/)
+* [id0-rsa](https://id0-rsa.pub/)
+
+### Misc
+Various collections of challenges that don't cleanly fit in one category
 * [Google Gruyere](https://google-gruyere.appspot.com/)
 * [Pwnable (Defunct?)](http://pwnable.kr/)
 * [Backdoor (Jeopardy)](https://backdoor.sdslabs.co/)
 * [Microcorruption (Embedded)](https://microcorruption.com)
 * [Starfighter](https://www.starfighters.io/)
-* [Exploit-Exercises (Exploitable VMs)](https://exploit-exercises.com/)
-* [Vuln Hub (Exploitable VMs)](https://www.vulnhub.com/)
-* [Arizona Cyber Warfare Range](http://azcwr.org/)
-* [CTF365 (Attack&Defend)](https://ctf365.com)
-* [Websec (Web)](https://websec.fr/)
-* [Hack.me (Web)](https://hack.me/)
-* [Ghost in the Shellcode](http://ghostintheshellcode.com/)
-* [Pwnadventure 3 (Game Hacking)](http://pwnadventure.com/)
-
+* [Counterhack](http://counterhack.net/Counter_Hack/Challenges.html)
+* [Hellbound Hackers](https://www.hellboundhackers.org/)
+* [RingZer0](https://ringzer0team.com/challenges)
+* [W3Challs](https://w3challs.com/)
 
 ## Blogs
 
@@ -111,22 +148,16 @@ Useful resources for CTFs.
 
 * [CTF Introduction and Information](https://trailofbits.github.io/ctf/index.html)
 * [Malloc Exploitation](http://phrack.org/issues/57/8.html)
-* [Smashing The Stack For Fun and Profit](http://phrack.org/issues/49/14.html)
+* [Smashing The Stack For Fun and Profit](http://phrack.org/issues/49/14.html)(!!)
 * [Modern Stack Smashing](https://www.soldierx.com/tutorials/Stack-Smashing-Modern-Linux-System)
 * [Stack Canaries](http://phrack.org/issues/56/5.html)
 * [Global Offset Table Hijacking](http://www.exploit-db.com/papers/13203/)
-* [Matasano Crypto Challenges](http://cryptopals.com/)
-* [Praetorian Crypto Challenges](http://www.praetorian.com/challenges/crypto/)
-* [PotatoSec Crypto Challenges](http://potatopla.net/crypto/)
 * [Reverse Engineering for Beginners](http://beginners.re/)
-* [Reverse Engineering](http://challenges.re/)
-* [OS X crackmes](https://reverse.put.as/crackmes/)
 * [Learn Python the Hard Way](http://learnpythonthehardway.org/book/)
 * [Corelan Security Articles](https://www.corelan.be/index.php/articles/)
 * [Metasploit Unleashed](http://www.offensive-security.com/metasploit-unleashed/Main_Page)
 * [Pentester Lab, Web app penetration testing](https://pentesterlab.com/)
 * [ARM memory corruption](https://github.com/saelo/armpwn)
-* [XSS Challenges](https://github.com/cure53/XSSChallengeWiki/wiki)
 * [CTFTime Scoreboard & Writeups](https://ctftime.org/)
 * [CTF Writeups Repo](https://github.com/ctfs)
 * [Captf CTF/Wargame List](https://captf.com/practice-ctf/)
