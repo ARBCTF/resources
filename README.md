@@ -58,6 +58,7 @@ Useful resources for CTFs.
 * [Network Security (Stonybrook)](https://www3.cs.stonybrook.edu/~mikepo/CSE508/)
 * [Computer Systems Security (MIT)](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-858-computer-systems-security-fall-2014/)
 * [Computer Security (Berkeley)](http://inst.eecs.berkeley.edu/~cs161/archives.html)
+* [Open Security Training](http://opensecuritytraining.info/)
 
 ## Practice
 
