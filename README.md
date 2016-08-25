@@ -47,7 +47,7 @@ Useful resources for CTFs.
 * [CTFd](https://github.com/isislab/CTFd)
 * [FBCTF](https://github.com/facebook/fbctf)
 
-## Classes
+## Training / Classes
 
 * [Modern Binary Exploitation (RPI)](http://security.cs.rpi.edu/courses/binexp-spring2015/)
   * [Course Materials](https://github.com/RPISEC/MBE)
@@ -59,6 +59,7 @@ Useful resources for CTFs.
 * [Computer Systems Security (MIT)](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-858-computer-systems-security-fall-2014/)
 * [Computer Security (Berkeley)](http://inst.eecs.berkeley.edu/~cs161/archives.html)
 * [Open Security Training](http://opensecuritytraining.info/)
+* [Lena's Reversing for Newbies](https://tuts4you.com/download.php?list.17)
 
 ## Practice
 
