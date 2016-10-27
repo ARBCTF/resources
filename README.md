@@ -60,6 +60,7 @@ Useful resources for CTFs.
 * [Computer Security (Berkeley)](http://inst.eecs.berkeley.edu/~cs161/archives.html)
 * [Open Security Training](http://opensecuritytraining.info/)
 * [Lena's Reversing for Newbies](https://tuts4you.com/download.php?list.17)
+* [Learn Operating Systems Online](https://www.ops-class.org/)
 
 ## Practice
 
