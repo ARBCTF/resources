@@ -146,6 +146,7 @@ Various collections of challenges that don't cleanly fit in one category
 * [ctf-tools](https://github.com/zardus/ctf-tools)
 * [awesome-ctf](https://github.com/apsdehal/awesome-ctf)
 * [pwntools](https://github.com/Gallopsled/pwntools)
+* [Compiler Explorer](http://godbolt.org/)
 
 ## Useful Links
 
