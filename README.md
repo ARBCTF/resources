@@ -98,6 +98,7 @@ The World Wide Web, where "wide" describes the size of the security holes.
 * [Websec.fr](https://websec.fr/)
 * [Hack.me](https://hack.me/)
 * [XSS Challenges](https://github.com/cure53/XSSChallengeWiki/wiki/Older-Challenges-and-Write-Ups)
+* [Damn Vulnerable Webapp](http://www.dvwa.co.uk/)
 
 ### Crypto
 Do large prime numbers really wet your whistle? Ever dream of having a key exchange with Diffie and Hellman? Does RSA make your toes tingle? These are for you.
