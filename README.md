@@ -132,6 +132,9 @@ Various collections of challenges that don't cleanly fit in one category
 * [NCC Group](https://www.nccgroup.trust/uk/about-us/newsroom-and-events/blogs/)
 * [Breaking Malware](http://breakingmalware.com/)
 
+## Videos
+* [LiveOverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w)
+
 ## Tools
 
 ### Disassemblers
