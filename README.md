@@ -70,6 +70,7 @@ Someone else runs these machines and gave YOU permission to exploit them to proc
 * [Over The Wire](http://overthewire.org/wargames/)
 * [IO](https://io.netgarage.org/)
 * [Arizona Cyber Warfare Range](http://azcwr.org/)
+* [HackTheBox](https://www.hackthebox.eu)
 
 ### Exploitable VMs
 Download a VM and hack away at it on your own machine. Perfect for those rare times you don't have internet but **need** to hack something.
